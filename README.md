@@ -24,5 +24,7 @@ Instructions
 References
 ----------
 
-https://unix.stackexchange.com/questions/67462/linux-kernel-is-not-finding-the-initrd-correctly
-http://lockett.altervista.org/linuxboot/linuxboot.html
+Thanks goes to:
+
+- https://unix.stackexchange.com/questions/67462/linux-kernel-is-not-finding-the-initrd-correctly
+- http://lockett.altervista.org/linuxboot/linuxboot.html
